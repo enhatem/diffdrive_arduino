@@ -1,0 +1,9 @@
+<library path="diffdrive_arduino">
+  <class name="diffdrive_arduino/DiffDriveArduinoHardware"
+         type="diffdrive_arduino::DiffDriveArduinoHardware"
+         base_class_type="hardware_interface::SystemInterface">
+    <description>
+      Hardware interface for communicating with motors via serial communication.  
+    </description>
+  </class>
+</library>
